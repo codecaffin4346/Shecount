@@ -1,0 +1,7 @@
+google-generativeai
+pinecone
+sentence-transformers
+flask
+flask-cors
+streamlit
+python-dotenv
